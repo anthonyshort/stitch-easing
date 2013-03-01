@@ -1,6 +1,10 @@
 {
   "name": "stitch-easing",
   "version": "0.1.0",
+  "description": "Easing functions for transitions and animations",
   "author": "Anthony Short",
-  "main": "_stitch-easing.sass"
+  "repo": "anthonyshort/stitch-easing",
+  "files": [
+    "index.sass"
+  ]
 }
